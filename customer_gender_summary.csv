@@ -1,0 +1,5 @@
+customer_type,gender,total_sales,transaction_count
+Member,Female,125206.14,356
+Normal,Female,69465.7,215
+Member,Male,64488.63,209
+Normal,Male,63806.28,220
